@@ -36,4 +36,5 @@ Pedro Igor Reis Braga
 Estudante de Análise e Desenvolvimento de Sistemas, desenvolvendo projetos práticos para aprimorar conhecimentos em lógica de programação e linguagem C.
 
 LinkedIn: (https://www.linkedin.com/in/pedro-reis-59385444a/)
+
 GitHub: (https://github.com/PedroReis3)
